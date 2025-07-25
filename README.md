@@ -1,4 +1,4 @@
-<img width="1518" height="876" alt="image" src="https://github.com/user-attachments/assets/2cbdb160-87d5-4344-9053-1139c9939ec7" /># manual_AI
+
 AI 사내 매뉴얼 챗봇 서비스
 -------------------------
 
